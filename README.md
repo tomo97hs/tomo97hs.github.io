@@ -1,5 +1,5 @@
 # The Cola
-http://tomo97hs.github.io/The\ Cola/  
+http://tomo97hs.github.io/The%20Cola/  
 からゲーム開始
 ## ゲームの概要  
 プレイヤーはコーラを操作して障害物を避け, 床に落ちないようにしながらゴールを目指す.  
